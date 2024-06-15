@@ -11,12 +11,12 @@ Here are the things that I have done during the course.
 
 | Week & Topic               | Practice Problems                                         | Labs                   | Problem Sets                                            |
 |----------------------------|-----------------------------------------------------------|------------------------|---------------------------------------------------------|
-| Week 0 • Scratch           |                                                           |                        | [Scratch](https://scratch.mit.edu/projects/698037981/fullscreen/)                                                 |
+| Week 0 • Scratch           |                                                           |                        | [Scratch](https://scratch.mit.edu/projects/698037981/fullscreen/) |
 | Week 1 • C                 | Debug • Half • Prime                                      | Population Growth      | Hello • Mario (Less) • Mario (More) • Cash • Credit     |
 | Week 2 • Arrays            | Hours • N0 V0w3ls • Password                              | Scrabble               | Readability • Caesar • Substitution                     |
 | Week 3 • Algorithms        | Recursive atoi • Average Temperatures • Max • Snackbar    | Sort                   | Plurality • Runoff • Tideman                            |
 | Week 4 • Memory            | Bottom Up • License                                       | Smiley • Volume        | Filter (Less) • Filter (More) • Recover                 |
-| Week 5 • Data Structures   | Trie                                                      | Inheritance            | Speller                                                 |
+| Week 5 • Data Structures   |                                                           | Inheritance            | Speller                                                 |
 | Week 6 • Python            | Bank • IGLET • Jar • Seven Day Average • Taqueria         | World Cup              | Sentimental • Lines • Mario • Shirt                     |
 | Week 7 • SQL               | Favorites • Hall of Prophecy                              | Songs                  | Movies • Fiftyville                                     |
 | Week 8 • HTML, CSS, JavaScript | Radio Shack Redo                                      | Trivia                 | Homepage                                                |
