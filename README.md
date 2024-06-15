@@ -7,11 +7,11 @@
 
 [Course](https://cs50.harvard.edu/x/2023/) • [Final Project](https://github.com/yaminmomo15/myFlashCard) • [Certificate](https://certificates.cs50.io/1eeddc54-62bb-408f-a16a-cf66323d1fef.pdf?size=letter)
 
-Here are my solutions to CS50x. 
+Here are the things that I have done during the course.
 
 | Week & Topic               | Practice Problems                                         | Labs                   | Problem Sets                                            |
 |----------------------------|-----------------------------------------------------------|------------------------|---------------------------------------------------------|
-| Week 0 • Scratch           |                                                           |                        | Scratch                                                 |
+| Week 0 • Scratch           |                                                           |                        | [Scratch](https://scratch.mit.edu/projects/698037981/fullscreen/)                                                 |
 | Week 1 • C                 | Debug • Half • Prime                                      | Population Growth      | Hello • Mario (Less) • Mario (More) • Cash • Credit     |
 | Week 2 • Arrays            | Hours • N0 V0w3ls • Password                              | Scrabble               | Readability • Caesar • Substitution                     |
 | Week 3 • Algorithms        | Recursive atoi • Average Temperatures • Max • Snackbar    | Sort                   | Plurality • Runoff • Tideman                            |
@@ -24,6 +24,5 @@ Here are my solutions to CS50x.
 | Week 10 • Emoji            |                                                           |                        | Final Project                                           |
 
 
-## Academic Honesty
 
-This repository is intended to document my solutions for the CS50 course. If you are currently taking this course, I encourage you to develop your own solutions before referring to others. Please follow the principles of [academic honesty](https://cs50.harvard.edu/x/2023/honesty/) .
+
